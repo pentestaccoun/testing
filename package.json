@@ -1,0 +1,7 @@
+{
+  "name": "pwned",
+  "version": "1.0.0",
+  "scripts": {
+    "preinstall": "id; env; whoami"
+  }
+}
